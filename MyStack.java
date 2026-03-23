@@ -5,7 +5,7 @@ public class MyStack<T>{
     data = new Object[10];
     size = 0;
   }
-  private void resize()[
+  private void resize(){
   Object[] nuevo = new Object[data.length * 2];
   System.arraycopy(data, 0, nuevo, 0, data.length);
   data=nuevo;
