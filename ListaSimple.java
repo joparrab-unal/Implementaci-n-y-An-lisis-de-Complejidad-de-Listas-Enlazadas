@@ -1,7 +1,7 @@
 public class ListaSimple<T> {
   private Nodo<T> head;
   public ListaSimple(){
-    head = null
+    head = null;
       }
   public void pushFront(T x) {
     Nodo<t> nuevo = new Nodo<>(x);
