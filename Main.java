@@ -6,7 +6,7 @@ public class Main {
     public static void exec(int size, String method, Operation operation) {
         Instant start = Instant.now();        
         
-        for (int i =0; i<size; i++);
+        for (int i =0; i<size; i++)
             operation.apply(i);
 
         Instant finish = Instant.now();
