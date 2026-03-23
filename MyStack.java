@@ -15,8 +15,8 @@ public void push(T x){
 data[size++] = x;
 }
 public T pop(){
-  if(isEmpty()) retunr null;
-  retunr (T) data[--size];
+  if(isEmpty()) return null;
+  return (T) data[--size];
 }
 public T peek() {
   if (isEmpty()) return null;
