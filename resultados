@@ -1,165 +1,179 @@
-Se ejecutó pushFront de 100 elementos en: 727 microsegundosss
-Se ejecutó pushFront de 100 elementos en: 68 microsegundosss
-Se ejecutó pushFront de 100 elementos en: 78 microsegundosss
-Se ejecutó pushFront de 100 elementos en: 59 microsegundosss
-Se ejecutó pushFront de 100 elementos en: 52 microsegundosss
-Se ejecutó pushFront de 100 elementos en: 58 microsegundosss
-Se ejecutó pushFront de 1000 elementos en: 107 microsegundosss
-Se ejecutó pushFront de 1000 elementos en: 94 microsegundosss
-Se ejecutó pushFront de 1000 elementos en: 106 microsegundosss
-Se ejecutó pushFront de 1000 elementos en: 93 microsegundosss
-Se ejecutó pushFront de 1000 elementos en: 109 microsegundosss
-Se ejecutó pushFront de 1000 elementos en: 99 microsegundosss
-Se ejecutó pushFront de 10000 elementos en: 951 microsegundosss
-Se ejecutó pushFront de 10000 elementos en: 992 microsegundosss
-Se ejecutó pushFront de 10000 elementos en: 1008 microsegundosss
-Se ejecutó pushFront de 10000 elementos en: 955 microsegundosss
-Se ejecutó pushFront de 10000 elementos en: 937 microsegundosss
-Se ejecutó pushFront de 10000 elementos en: 910 microsegundosss
-Se ejecutó pushFront de 100000 elementos en: 6139 microsegundosss
-Se ejecutó pushFront de 100000 elementos en: 5213 microsegundosss
-Se ejecutó pushFront de 100000 elementos en: 5056 microsegundosss
-Se ejecutó pushFront de 100000 elementos en: 4798 microsegundosss
-Se ejecutó pushFront de 100000 elementos en: 27515 microsegundosss
-Se ejecutó pushFront de 100000 elementos en: 1379 microsegundosss
-Se ejecutó pushFront de 1000000 elementos en: 24599 microsegundosss
-Se ejecutó pushFront de 1000000 elementos en: 31872 microsegundosss
-Se ejecutó pushFront de 1000000 elementos en: 16617 microsegundosss
-Se ejecutó pushFront de 1000000 elementos en: 7702 microsegundosss
-Se ejecutó pushFront de 1000000 elementos en: 22063 microsegundosss
-Se ejecutó pushFront de 1000000 elementos en: 79655 microsegundosss
-Se ejecutó pushBack de 100 elementos en: 83 microsegundosss
-Se ejecutó pushBack de 100 elementos en: 108 microsegundosss
-Se ejecutó pushBack de 100 elementos en: 78 microsegundosss
-Se ejecutó pushBack de 100 elementos en: 66 microsegundosss
-Se ejecutó pushBack de 100 elementos en: 28 microsegundosss
-Se ejecutó pushBack de 100 elementos en: 48 microsegundosss
-Se ejecutó pushBack de 1000 elementos en: 1389 microsegundosss
-Se ejecutó pushBack de 1000 elementos en: 1219 microsegundosss
-Se ejecutó pushBack de 1000 elementos en: 1347 microsegundosss
-Se ejecutó pushBack de 1000 elementos en: 1765 microsegundosss
-Se ejecutó pushBack de 1000 elementos en: 1815 microsegundosss
-Se ejecutó pushBack de 1000 elementos en: 1775 microsegundosss
-Se ejecutó pushBack de 10000 elementos en: 86223 microsegundosss
-Se ejecutó pushBack de 10000 elementos en: 81787 microsegundosss
-Se ejecutó pushBack de 10000 elementos en: 74434 microsegundosss
-Se ejecutó pushBack de 10000 elementos en: 74200 microsegundosss
-Se ejecutó pushBack de 10000 elementos en: 74401 microsegundosss
-Se ejecutó pushBack de 10000 elementos en: 74989 microsegundosss
-Se ejecutó pushBack_tail de 100 elementos en: 70 microsegundosss
-Se ejecutó pushBack_tail de 100 elementos en: 55 microsegundosss
-Se ejecutó pushBack_tail de 100 elementos en: 45 microsegundosss
-Se ejecutó pushBack_tail de 100 elementos en: 52 microsegundosss
-Se ejecutó pushBack_tail de 100 elementos en: 33 microsegundosss
-Se ejecutó pushBack_tail de 100 elementos en: 48 microsegundosss
-Se ejecutó pushBack_tail de 1000 elementos en: 311 microsegundosss
-Se ejecutó pushBack_tail de 1000 elementos en: 113 microsegundosss
-Se ejecutó pushBack_tail de 1000 elementos en: 58 microsegundosss
-Se ejecutó pushBack_tail de 1000 elementos en: 58 microsegundosss
-Se ejecutó pushBack_tail de 1000 elementos en: 57 microsegundosss
-Se ejecutó pushBack_tail de 1000 elementos en: 58 microsegundosss
-Se ejecutó pushBack_tail de 10000 elementos en: 622 microsegundosss
-Se ejecutó pushBack_tail de 10000 elementos en: 575 microsegundosss
-Se ejecutó pushBack_tail de 10000 elementos en: 574 microsegundosss
-Se ejecutó pushBack_tail de 10000 elementos en: 578 microsegundosss
-Se ejecutó pushBack_tail de 10000 elementos en: 594 microsegundosss
-Se ejecutó pushBack_tail de 10000 elementos en: 621 microsegundosss
-Se ejecutó pushBack_tail de 100000 elementos en: 6686 microsegundosss
-Se ejecutó pushBack_tail de 100000 elementos en: 6796 microsegundosss
-Se ejecutó pushBack_tail de 100000 elementos en: 1131 microsegundosss
-Se ejecutó pushBack_tail de 100000 elementos en: 905 microsegundosss
-Se ejecutó pushBack_tail de 100000 elementos en: 839 microsegundosss
-Se ejecutó pushBack_tail de 100000 elementos en: 845 microsegundosss
-Se ejecutó pushBack_tail de 1000000 elementos en: 10731 microsegundosss
-Se ejecutó pushBack_tail de 1000000 elementos en: 124822 microsegundosss
-Se ejecutó pushBack_tail de 1000000 elementos en: 6687 microsegundosss
-Se ejecutó pushBack_tail de 1000000 elementos en: 6715 microsegundosss
-Se ejecutó pushBack_tail de 1000000 elementos en: 110731 microsegundosss
-Se ejecutó pushBack_tail de 1000000 elementos en: 28532 microsegundosss
-Se ejecutó stack_push de 100 elementos en: 47 microsegundosss
-Se ejecutó stack_push de 100 elementos en: 26 microsegundosss
-Se ejecutó stack_push de 100 elementos en: 26 microsegundosss
-Se ejecutó stack_push de 100 elementos en: 35 microsegundosss
-Se ejecutó stack_push de 100 elementos en: 25 microsegundosss
-Se ejecutó stack_push de 100 elementos en: 34 microsegundosss
-Se ejecutó stack_push de 1000 elementos en: 181 microsegundosss
-Se ejecutó stack_push de 1000 elementos en: 161 microsegundosss
-Se ejecutó stack_push de 1000 elementos en: 47 microsegundosss
-Se ejecutó stack_push de 1000 elementos en: 39 microsegundosss
-Se ejecutó stack_push de 1000 elementos en: 40 microsegundosss
-Se ejecutó stack_push de 1000 elementos en: 56 microsegundosss
-Se ejecutó stack_push de 10000 elementos en: 302 microsegundosss
-Se ejecutó stack_push de 10000 elementos en: 269 microsegundosss
-Se ejecutó stack_push de 10000 elementos en: 341 microsegundosss
-Se ejecutó stack_push de 10000 elementos en: 367 microsegundosss
-Se ejecutó stack_push de 10000 elementos en: 359 microsegundosss
-Se ejecutó stack_push de 10000 elementos en: 346 microsegundosss
-Se ejecutó stack_push de 100000 elementos en: 3434 microsegundosss
-Se ejecutó stack_push de 100000 elementos en: 2754 microsegundosss
-Se ejecutó stack_push de 100000 elementos en: 2781 microsegundosss
-Se ejecutó stack_push de 100000 elementos en: 3015 microsegundosss
-Se ejecutó stack_push de 100000 elementos en: 2826 microsegundosss
-Se ejecutó stack_push de 100000 elementos en: 2542 microsegundosss
-Se ejecutó stack_push de 1000000 elementos en: 24824 microsegundosss
-Se ejecutó stack_push de 1000000 elementos en: 24324 microsegundosss
-Se ejecutó stack_push de 1000000 elementos en: 25339 microsegundosss
-Se ejecutó stack_push de 1000000 elementos en: 22357 microsegundosss
-Se ejecutó stack_push de 1000000 elementos en: 154725 microsegundosss
-Se ejecutó stack_push de 1000000 elementos en: 12810 microsegundosss
-Se ejecutó queue_enqueue de 100 elementos en: 42 microsegundosss
-Se ejecutó queue_enqueue de 100 elementos en: 35 microsegundosss
-Se ejecutó queue_enqueue de 100 elementos en: 37 microsegundosss
-Se ejecutó queue_enqueue de 100 elementos en: 35 microsegundosss
-Se ejecutó queue_enqueue de 100 elementos en: 32 microsegundosss
-Se ejecutó queue_enqueue de 100 elementos en: 42 microsegundosss
-Se ejecutó queue_enqueue de 1000 elementos en: 360 microsegundosss
-Se ejecutó queue_enqueue de 1000 elementos en: 371 microsegundosss
-Se ejecutó queue_enqueue de 1000 elementos en: 386 microsegundosss
-Se ejecutó queue_enqueue de 1000 elementos en: 360 microsegundosss
-Se ejecutó queue_enqueue de 1000 elementos en: 408 microsegundosss
-Se ejecutó queue_enqueue de 1000 elementos en: 340 microsegundosss
-Se ejecutó queue_enqueue de 10000 elementos en: 3109 microsegundosss
-Se ejecutó queue_enqueue de 10000 elementos en: 480 microsegundosss
-Se ejecutó queue_enqueue de 10000 elementos en: 463 microsegundosss
-Se ejecutó queue_enqueue de 10000 elementos en: 469 microsegundosss
-Se ejecutó queue_enqueue de 10000 elementos en: 555 microsegundosss
-Se ejecutó queue_enqueue de 10000 elementos en: 535 microsegundosss
-Se ejecutó queue_enqueue de 100000 elementos en: 2468 microsegundosss
-Se ejecutó queue_enqueue de 100000 elementos en: 2950 microsegundosss
-Se ejecutó queue_enqueue de 100000 elementos en: 2169 microsegundosss
-Se ejecutó queue_enqueue de 100000 elementos en: 63202 microsegundosss
-Se ejecutó queue_enqueue de 100000 elementos en: 3530 microsegundosss
-Se ejecutó queue_enqueue de 100000 elementos en: 3576 microsegundosss
-Se ejecutó queue_enqueue de 1000000 elementos en: 36481 microsegundosss
-Se ejecutó queue_enqueue de 1000000 elementos en: 68702 microsegundosss
-Se ejecutó queue_enqueue de 1000000 elementos en: 61873 microsegundosss
-Se ejecutó queue_enqueue de 1000000 elementos en: 41762 microsegundosss
-Se ejecutó queue_enqueue de 1000000 elementos en: 35246 microsegundosss
-Se ejecutó queue_enqueue de 1000000 elementos en: 34499 microsegundosss
+--- exec:3.5.1:exec (default-cli) @ Complejidad ---
+Se ejecutó pushFront en estructura de 100 elementos en: 1523 nanosegundos
+Se ejecutó pushFront en estructura de 100 elementos en: 732 nanosegundos
+Se ejecutó pushFront en estructura de 100 elementos en: 651 nanosegundos
+Se ejecutó pushFront en estructura de 100 elementos en: 621 nanosegundos
+Se ejecutó pushFront en estructura de 100 elementos en: 982 nanosegundos
+Se ejecutó pushFront en estructura de 100 elementos en: 230 nanosegundos
+Se ejecutó pushFront en estructura de 1000 elementos en: 340 nanosegundos
+Se ejecutó pushFront en estructura de 1000 elementos en: 401 nanosegundos
+Se ejecutó pushFront en estructura de 1000 elementos en: 341 nanosegundos
+Se ejecutó pushFront en estructura de 1000 elementos en: 330 nanosegundos
+Se ejecutó pushFront en estructura de 1000 elementos en: 340 nanosegundos
+Se ejecutó pushFront en estructura de 1000 elementos en: 742 nanosegundos
+Se ejecutó pushFront en estructura de 10000 elementos en: 1142 nanosegundos
+Se ejecutó pushFront en estructura de 10000 elementos en: 280 nanosegundos
+Se ejecutó pushFront en estructura de 10000 elementos en: 281 nanosegundos
+Se ejecutó pushFront en estructura de 10000 elementos en: 210 nanosegundos
+Se ejecutó pushFront en estructura de 10000 elementos en: 2464 nanosegundos
+Se ejecutó pushFront en estructura de 10000 elementos en: 230 nanosegundos
+Se ejecutó pushFront en estructura de 100000 elementos en: 4689 nanosegundos
+Se ejecutó pushFront en estructura de 100000 elementos en: 18425 nanosegundos
+Se ejecutó pushFront en estructura de 100000 elementos en: 120 nanosegundos
+Se ejecutó pushFront en estructura de 100000 elementos en: 882 nanosegundos
+Se ejecutó pushFront en estructura de 100000 elementos en: 100 nanosegundos
+Se ejecutó pushFront en estructura de 100000 elementos en: 331 nanosegundos
+Se ejecutó pushFront en estructura de 1000000 elementos en: 201 nanosegundos
+Se ejecutó pushFront en estructura de 1000000 elementos en: 25779 nanosegundos
+Se ejecutó pushFront en estructura de 1000000 elementos en: 531 nanosegundos
+Se ejecutó pushFront en estructura de 1000000 elementos en: 140 nanosegundos
+Se ejecutó pushFront en estructura de 1000000 elementos en: 822 nanosegundos
+Se ejecutó pushFront en estructura de 1000000 elementos en: 721 nanosegundos
+Se ejecutó pushBack en estructura de 100 elementos en: 3517 nanosegundos
+Se ejecutó pushBack en estructura de 100 elementos en: 3366 nanosegundos
+Se ejecutó pushBack en estructura de 100 elementos en: 1233 nanosegundos
+Se ejecutó pushBack en estructura de 100 elementos en: 1323 nanosegundos
+Se ejecutó pushBack en estructura de 100 elementos en: 1303 nanosegundos
+Se ejecutó pushBack en estructura de 100 elementos en: 1322 nanosegundos
+Se ejecutó pushBack en estructura de 1000 elementos en: 7614 nanosegundos
+Se ejecutó pushBack en estructura de 1000 elementos en: 21641 nanosegundos
+Se ejecutó pushBack en estructura de 1000 elementos en: 3897 nanosegundos
+Se ejecutó pushBack en estructura de 1000 elementos en: 3957 nanosegundos
+Se ejecutó pushBack en estructura de 1000 elementos en: 4498 nanosegundos
+Se ejecutó pushBack en estructura de 1000 elementos en: 4619 nanosegundos
+Se ejecutó pushBack en estructura de 10000 elementos en: 29907 nanosegundos
+Se ejecutó pushBack en estructura de 10000 elementos en: 32011 nanosegundos
+Se ejecutó pushBack en estructura de 10000 elementos en: 44705 nanosegundos
+Se ejecutó pushBack en estructura de 10000 elementos en: 14557 nanosegundos
+Se ejecutó pushBack en estructura de 10000 elementos en: 41960 nanosegundos
+Se ejecutó pushBack en estructura de 10000 elementos en: 37752 nanosegundos
+Se ejecutó pushBack en estructura de 100000 elementos en: 273309 nanosegundos
+Se ejecutó pushBack en estructura de 100000 elementos en: 262208 nanosegundos
+Se ejecutó pushBack en estructura de 100000 elementos en: 267959 nanosegundos
+Se ejecutó pushBack en estructura de 100000 elementos en: 274351 nanosegundos
+Se ejecutó pushBack en estructura de 100000 elementos en: 356167 nanosegundos
+Se ejecutó pushBack en estructura de 100000 elementos en: 259794 nanosegundos
+Se ejecutó pushBack_tail en estructura de 100 elementos en: 481 nanosegundos
+Se ejecutó pushBack_tail en estructura de 100 elementos en: 441 nanosegundos
+Se ejecutó pushBack_tail en estructura de 100 elementos en: 471 nanosegundos
+Se ejecutó pushBack_tail en estructura de 100 elementos en: 431 nanosegundos
+Se ejecutó pushBack_tail en estructura de 100 elementos en: 461 nanosegundos
+Se ejecutó pushBack_tail en estructura de 100 elementos en: 401 nanosegundos
+Se ejecutó pushBack_tail en estructura de 1000 elementos en: 411 nanosegundos
+Se ejecutó pushBack_tail en estructura de 1000 elementos en: 370 nanosegundos
+Se ejecutó pushBack_tail en estructura de 1000 elementos en: 251 nanosegundos
+Se ejecutó pushBack_tail en estructura de 1000 elementos en: 430 nanosegundos
+Se ejecutó pushBack_tail en estructura de 1000 elementos en: 270 nanosegundos
+Se ejecutó pushBack_tail en estructura de 1000 elementos en: 371 nanosegundos
+Se ejecutó pushBack_tail en estructura de 10000 elementos en: 190 nanosegundos
+Se ejecutó pushBack_tail en estructura de 10000 elementos en: 251 nanosegundos
+Se ejecutó pushBack_tail en estructura de 10000 elementos en: 211 nanosegundos
+Se ejecutó pushBack_tail en estructura de 10000 elementos en: 290 nanosegundos
+Se ejecutó pushBack_tail en estructura de 10000 elementos en: 231 nanosegundos
+Se ejecutó pushBack_tail en estructura de 10000 elementos en: 190 nanosegundos
+Se ejecutó pushBack_tail en estructura de 100000 elementos en: 1172 nanosegundos
+Se ejecutó pushBack_tail en estructura de 100000 elementos en: 1042 nanosegundos
+Se ejecutó pushBack_tail en estructura de 100000 elementos en: 942 nanosegundos
+Se ejecutó pushBack_tail en estructura de 100000 elementos en: 912 nanosegundos
+Se ejecutó pushBack_tail en estructura de 100000 elementos en: 962 nanosegundos
+Se ejecutó pushBack_tail en estructura de 100000 elementos en: 10550 nanosegundos
+Se ejecutó pushBack_tail en estructura de 1000000 elementos en: 101 nanosegundos
+Se ejecutó pushBack_tail en estructura de 1000000 elementos en: 71 nanosegundos
+Se ejecutó pushBack_tail en estructura de 1000000 elementos en: 6622 nanosegundos
+Se ejecutó pushBack_tail en estructura de 1000000 elementos en: 16531 nanosegundos
+Se ejecutó pushBack_tail en estructura de 1000000 elementos en: 70 nanosegundos
+Se ejecutó pushBack_tail en estructura de 1000000 elementos en: 81 nanosegundos
+Se ejecutó stack_push en estructura de 100 elementos en: 3466 nanosegundos
+Se ejecutó stack_push en estructura de 100 elementos en: 281 nanosegundos
+Se ejecutó stack_push en estructura de 100 elementos en: 231 nanosegundos
+Se ejecutó stack_push en estructura de 100 elementos en: 351 nanosegundos
+Se ejecutó stack_push en estructura de 100 elementos en: 331 nanosegundos
+Se ejecutó stack_push en estructura de 100 elementos en: 170 nanosegundos
+Se ejecutó stack_push en estructura de 1000 elementos en: 271 nanosegundos
+Se ejecutó stack_push en estructura de 1000 elementos en: 240 nanosegundos
+Se ejecutó stack_push en estructura de 1000 elementos en: 280 nanosegundos
+Se ejecutó stack_push en estructura de 1000 elementos en: 260 nanosegundos
+Se ejecutó stack_push en estructura de 1000 elementos en: 241 nanosegundos
+Se ejecutó stack_push en estructura de 1000 elementos en: 261 nanosegundos
+Se ejecutó stack_push en estructura de 10000 elementos en: 200 nanosegundos
+Se ejecutó stack_push en estructura de 10000 elementos en: 50 nanosegundos
+Se ejecutó stack_push en estructura de 10000 elementos en: 60 nanosegundos
+Se ejecutó stack_push en estructura de 10000 elementos en: 101 nanosegundos
+Se ejecutó stack_push en estructura de 10000 elementos en: 90 nanosegundos
+Se ejecutó stack_push en estructura de 10000 elementos en: 81 nanosegundos
+Se ejecutó stack_push en estructura de 100000 elementos en: 40 nanosegundos
+Se ejecutó stack_push en estructura de 100000 elementos en: 331 nanosegundos
+Se ejecutó stack_push en estructura de 100000 elementos en: 210 nanosegundos
+Se ejecutó stack_push en estructura de 100000 elementos en: 361 nanosegundos
+Se ejecutó stack_push en estructura de 100000 elementos en: 361 nanosegundos
+Se ejecutó stack_push en estructura de 100000 elementos en: 261 nanosegundos
+Se ejecutó stack_push en estructura de 1000000 elementos en: 922 nanosegundos
+Se ejecutó stack_push en estructura de 1000000 elementos en: 1232 nanosegundos
+Se ejecutó stack_push en estructura de 1000000 elementos en: 1513 nanosegundos
+Se ejecutó stack_push en estructura de 1000000 elementos en: 1513 nanosegundos
+Se ejecutó stack_push en estructura de 1000000 elementos en: 1242 nanosegundos
+Se ejecutó stack_push en estructura de 1000000 elementos en: 1042 nanosegundos
+Se ejecutó queue_enqueue en estructura de 100 elementos en: 551 nanosegundos
+Se ejecutó queue_enqueue en estructura de 100 elementos en: 340 nanosegundos
+Se ejecutó queue_enqueue en estructura de 100 elementos en: 411 nanosegundos
+Se ejecutó queue_enqueue en estructura de 100 elementos en: 310 nanosegundos
+Se ejecutó queue_enqueue en estructura de 100 elementos en: 401 nanosegundos
+Se ejecutó queue_enqueue en estructura de 100 elementos en: 381 nanosegundos
+Se ejecutó queue_enqueue en estructura de 1000 elementos en: 320 nanosegundos
+Se ejecutó queue_enqueue en estructura de 1000 elementos en: 240 nanosegundos
+Se ejecutó queue_enqueue en estructura de 1000 elementos en: 240 nanosegundos
+Se ejecutó queue_enqueue en estructura de 1000 elementos en: 250 nanosegundos
+Se ejecutó queue_enqueue en estructura de 1000 elementos en: 140 nanosegundos
+Se ejecutó queue_enqueue en estructura de 1000 elementos en: 50 nanosegundos
+Se ejecutó queue_enqueue en estructura de 10000 elementos en: 60 nanosegundos
+Se ejecutó queue_enqueue en estructura de 10000 elementos en: 50 nanosegundos
+Se ejecutó queue_enqueue en estructura de 10000 elementos en: 100 nanosegundos
+Se ejecutó queue_enqueue en estructura de 10000 elementos en: 50 nanosegundos
+Se ejecutó queue_enqueue en estructura de 10000 elementos en: 50 nanosegundos
+Se ejecutó queue_enqueue en estructura de 10000 elementos en: 170 nanosegundos
+Se ejecutó queue_enqueue en estructura de 100000 elementos en: 80 nanosegundos
+Se ejecutó queue_enqueue en estructura de 100000 elementos en: 191 nanosegundos
+Se ejecutó queue_enqueue en estructura de 100000 elementos en: 161 nanosegundos
+Se ejecutó queue_enqueue en estructura de 100000 elementos en: 200 nanosegundos
+Se ejecutó queue_enqueue en estructura de 100000 elementos en: 151 nanosegundos
+Se ejecutó queue_enqueue en estructura de 100000 elementos en: 220 nanosegundos
+Se ejecutó queue_enqueue en estructura de 1000000 elementos en: 170 nanosegundos
+Se ejecutó queue_enqueue en estructura de 1000000 elementos en: 190 nanosegundos
+Se ejecutó queue_enqueue en estructura de 1000000 elementos en: 291 nanosegundos
+Se ejecutó queue_enqueue en estructura de 1000000 elementos en: 251 nanosegundos
+Se ejecutó queue_enqueue en estructura de 1000000 elementos en: 401 nanosegundos
+Se ejecutó queue_enqueue en estructura de 1000000 elementos en: 401 nanosegundos
 
---- Resumen de Promedios (microsegundos) ---
-pushFront de        100: 63
-pushFront de       1000: 100
-pushFront de      10000: 960
-pushFront de     100000: 8792
-pushFront de    1000000: 31581
-pushBack de        100: 65
-pushBack de       1000: 1584
-pushBack de      10000: 75962
-pushBack_tail de        100: 46
-pushBack_tail de       1000: 68
-pushBack_tail de      10000: 588
-pushBack_tail de     100000: 2103
-pushBack_tail de    1000000: 55497
-stack_push de        100: 29
-stack_push de       1000: 68
-stack_push de      10000: 336
-stack_push de     100000: 2783
-stack_push de    1000000: 47911
-queue_enqueue de        100: 36
-queue_enqueue de       1000: 373
-queue_enqueue de      10000: 500
-queue_enqueue de     100000: 15085
-queue_enqueue de    1000000: 48416
+--- Resumen de Promedios (nanosegundos) ---
+pushFront de        100: 643
+pushFront de       1000: 430
+pushFront de      10000: 693
+pushFront de     100000: 3971
+pushFront de    1000000: 5598
+pushBack de        100: 1709
+pushBack de       1000: 7722
+pushBack de      10000: 34197
+pushBack de     100000: 284095
+pushBack_tail de        100: 441
+pushBack_tail de       1000: 338
+pushBack_tail de      10000: 234
+pushBack_tail de     100000: 2881
+pushBack_tail de    1000000: 4675
+stack_push de        100: 272
+stack_push de       1000: 256
+stack_push de      10000: 76
+stack_push de     100000: 304
+stack_push de    1000000: 1308
+queue_enqueue de        100: 368
+queue_enqueue de       1000: 184
+queue_enqueue de      10000: 84
+queue_enqueue de     100000: 184
+queue_enqueue de    1000000: 306
 
 Fin de las pruebas
+------------------------------------------------------------------------
+BUILD SUCCESS
+------------------------------------------------------------------------
+Total time:  01:03 min
+Finished at: 2026-03-23T18:41:08-05:00
+------------------------------------------------------------------------
