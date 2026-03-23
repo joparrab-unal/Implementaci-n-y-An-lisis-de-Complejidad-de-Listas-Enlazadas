@@ -6,7 +6,7 @@ public class Main {
     public static void exec(int size, String method, Operation operation) {
         Instant start = Instant.now();        
         
-        for (int i =0; i<size; i++)
+        for (int i =0; i<size; i++);
             operation.apply(i);
 
         Instant finish = Instant.now();
@@ -17,7 +17,7 @@ public class Main {
     public static void main(String[] args) {
         final int start = 100;
         final int endLento = 10000;
-        final int endRapido = 1000000
+        final int endRapido = 1000000;
         
        for (int size = start; size <= endRapido; size *= 10) {
     for (int j = 0; j < 5; j++) {
