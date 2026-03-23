@@ -4,7 +4,7 @@ public class ListaSimple<T> {
     head = null;
       }
   public void pushFront(T x) {
-    Nodo<t> nuevo = new Nodo<>(x);
+    Nodo<T> nuevo = new Nodo<>(x);
     nuevo.siguiente = head;
     head = nuevo;
   }
