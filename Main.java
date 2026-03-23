@@ -1,26 +1,28 @@
 public class Main {
 
     public static long exec(int size, String method, Operation operation) {
-        long start = System.nanoTime();
-        
         for (int i = 0; i < size; i++) {
             operation.apply(i);
         }
 
-        long finish = System.nanoTime();
-        long timeElapsedMicros = (finish - start) / 1000;
+        long start = System.nanoTime();
         
-        System.out.printf("Se ejecutó %s de %d elementos en: %d microsegundosss\n", method, size, timeElapsedMicros);
-        return timeElapsedMicros;
+        operation.apply(size);
+
+        long finish = System.nanoTime();
+        long timeElapsedNanos = finish - start;
+        
+        System.out.printf("Se ejecutó %s en estructura de %d elementos en: %d nanosegundos\n", method, size, timeElapsedNanos);
+        return timeElapsedNanos;
     }
 
     public static void main(String[] args) {
         final int start = 100;
-        final int endLento = 10000;
+        final int endLento = 100000;
         final int endRapido = 1000000;
         
         StringBuilder resumen = new StringBuilder();
-        resumen.append("\n--- Resumen de Promedios (microsegundos) ---\n");
+        resumen.append("\n---Resumen de Promedios (nanosegundos)--\n");
 
         for (int size = start; size <= endRapido; size *= 10) {
             long sum = 0;
