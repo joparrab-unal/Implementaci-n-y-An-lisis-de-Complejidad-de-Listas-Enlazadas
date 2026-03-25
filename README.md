@@ -1,5 +1,4 @@
-# Implementación y Análisis de Complejidad de Listas, Pilas y Colas en
-Java
+# Implementación y Análisis de Complejidad de Listas, Pilas y Colas en Java
 
 Este proyecto mide y compara el rendimiento de diferentes implementaciones de listas, pilas y colas en Java. El objetivo es ver cómo afectan las decisiones de diseño (como usar un puntero `tail` o un arreglo circular) al tiempo de ejecución real frente a la complejidad teórica.
 
