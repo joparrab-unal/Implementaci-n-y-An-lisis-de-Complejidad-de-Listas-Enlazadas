@@ -1,4 +1,5 @@
-# Benchmark de Estructuras de Datos Lineales
+# Implementación y Análisis de Complejidad de Listas, Pilas y Colas en
+Java
 
 Este proyecto mide y compara el rendimiento de diferentes implementaciones de listas, pilas y colas en Java. El objetivo es ver cómo afectan las decisiones de diseño (como usar un puntero `tail` o un arreglo circular) al tiempo de ejecución real frente a la complejidad teórica.
 
@@ -11,11 +12,11 @@ Este proyecto mide y compara el rendimiento de diferentes implementaciones de li
 * **`Operation.java`**: Interfaz funcional para pasar los métodos de las estructuras como parámetros a los métodos de medición.
 * **`Nodo.java`**: Definición básica del nodo genérico.
 
-## Metodología de Pruebas
+## Metodología 
 
 Para que los tiempos sean lo más precisos posible, el código en `Main.java` sigue estas reglas:
 
-1.  **Aislamiento:** No se mide el tiempo de creación ni de llenado de la estructura. Se llena la estructura con $n$ elementos, se inicia el cronómetro, se ejecuta **una sola operación** y se detiene el reloj.
+1.  **Aislamiento:** No se mide el tiempo de creación ni de llenado de la estrutura. Se llena la estructura con $n$ elementos, se inicia el cronómetro, se ejecuta **una sola operación** y se detiene el reloj.
 2.  **Promedios:** Cada prueba se corre 6 veces. La primera ejecución se descarta (para evitar el ruido del encendido de la JVM/JIT) y se promedian las 5 restantes.
 3.  **Unidad de tiempo:** Se utilizan nanosegundos (`System.nanoTime()`) para poder capturar la diferencia en operaciones $O(1)$ que en milisegundos marcaban 0.0.
 
